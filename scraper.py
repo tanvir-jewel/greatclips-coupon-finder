@@ -6,7 +6,7 @@ Searches Google, DuckDuckGo, and Bing for coupon aggregator sites, scrapes
 them for coupon URLs, then checks each coupon page for area matches.
 
 Author: Tanvir Hossain
-Email:  jewel.tanvir@gmail.com, tanvir@ku.edu
+Email:  tanvir@ku.edu
 Web:    https://www.tanvirhossain.net/
 """
 

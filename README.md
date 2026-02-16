@@ -45,5 +45,5 @@ All tests use mocked HTTP responses — no live network calls.
 ## Author
 
 Tanvir Hossain
-- Email: jewel.tanvir@gmail.com, tanvir@ku.edu
+- Email: tanvir@ku.edu
 - Web: https://www.tanvirhossain.net/
